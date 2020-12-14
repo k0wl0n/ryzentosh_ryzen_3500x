@@ -1,4 +1,4 @@
-# ryzentosh_ryzen_3500x
+# ryzentosh ryzen 3500x B550
 
 
 
