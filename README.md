@@ -2,7 +2,7 @@
 
 
 
-[![macOS version](https://img.shields.io/badge/macos-catalina-brightgreen.svg)](https://www.apple.com/macos) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.4-informational.svg)](https://github.com/acidanthera/OpenCorePkg) [![GitHub issues](https://img.shields.io/github/issues/MaximumQuiet/ryzentosh.svg)](https://github.com/k0wl0n/ryzentosh_ryzen_3500x/issues)
+[![macOS version](https://img.shields.io/badge/macos-catalina-brightgreen.svg)](https://www.apple.com/macos) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.4-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
 <img src="https://communities.apple.com/kb20181115/securedImage.jsp?productid=PP145&size=240x240" width="150"/>
 
